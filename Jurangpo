@@ -1,0 +1,6 @@
+autobuypack = true              -- Automatically buying a pack
+hargapack = 2000                -- Pack Price
+namapack = "world_lock"         -- Pack Name
+MinItemPack = 1                 -- Bot will dropping the pack when he have X MinItemPack or more
+iditempack = {242}              -- Put all your id item pack in here
+maxbuy = 2                      -- Bot will try to buying X times if have more gems
