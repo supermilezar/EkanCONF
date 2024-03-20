@@ -1,8 +1,8 @@
 autobuypack = true              -- Automatically buying a pack
-hargapack = 2000                -- Pack Price
-namapack = "world_lock"         -- Pack Name
+hargapack = 8000                -- Pack Price
+namapack = "city_pack"         -- Pack Name
 MinItemPack = 1                 -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {242}              -- Put all your id item pack in here
+iditempack = {1008,1002,988,1006,1004,998,996,990,992,986,994}              -- Put all your id item pack in here
 maxbuy = 2                      -- Bot will try to buying X times if have more gems
 
 SpecialItem = {5030,5036,7162,5024,882,1406,7164,5748,5742,5746,9346} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK EVENT!
